@@ -1,5 +1,5 @@
-# EstruturaDados
+# Estrutura de Dados 2
 .
-## Instalação
+## InstalaÃ§Ã£o
 
-## Execução
+## ExecuÃ§Ã£o
